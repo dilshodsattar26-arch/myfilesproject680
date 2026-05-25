@@ -1,0 +1,8 @@
+{
+    "name": "apicontroller-service",
+    "version": "1.0.680",
+    "private": false,
+    "environment": "production",
+    "build_id": 808,
+    "allow_public_access": true
+}
